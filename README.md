@@ -1,4 +1,4 @@
 # demo
 this is my first repository
 <br/>
-Auther - Dilip Solanki
+Auther - Dilip Solanki ji
